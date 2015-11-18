@@ -4,6 +4,6 @@ C:\Users\arssa\documents\visual studio 2015\Projects\ParallelExample\ClusterExec
 C:\Users\arssa\documents\visual studio 2015\Projects\ParallelExample\ClusterExecutor\bin\Debug\Mono.Cecil.Mdb.dll
 C:\Users\arssa\documents\visual studio 2015\Projects\ParallelExample\ClusterExecutor\bin\Debug\Mono.Cecil.Pdb.dll
 C:\Users\arssa\documents\visual studio 2015\Projects\ParallelExample\ClusterExecutor\bin\Debug\Mono.Cecil.Rocks.dll
-C:\Users\arssa\documents\visual studio 2015\Projects\ParallelExample\ClusterExecutor\obj\Debug\ClusterExecutor.csprojResolveAssemblyReference.cache
 C:\Users\arssa\documents\visual studio 2015\Projects\ParallelExample\ClusterExecutor\obj\Debug\ClusterExecutor.dll
 C:\Users\arssa\documents\visual studio 2015\Projects\ParallelExample\ClusterExecutor\obj\Debug\ClusterExecutor.pdb
+C:\Users\arssa\documents\visual studio 2015\Projects\ParallelExample\ClusterExecutor\obj\Debug\ClusterExecutor.csprojResolveAssemblyReference.cache

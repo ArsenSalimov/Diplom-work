@@ -17,5 +17,9 @@ namespace ClusterExecutor {
         }
 
         public T Value => (T)_factory(_methodName, _args);
+
+       public static implicit operator T(LazyImpl<T> lazy) {
+           return default(T);
+       }
     }
 }
